@@ -1,6 +1,10 @@
+[![Build Status](https://travis-ci.org/serinth/stackdriver-debugger-example.svg?branch=master)](https://travis-ci.org/serinth/stackdriver-debugger-example.svg?branch=master)
+
 # Debugging Applications in Production with Google Cloud Debugger
 
 This example shows how a Java Spring Boot application can be debugged using Google's Cloud Debugger even if the executable is running on a different environment e.g. AWS. The appeal of this is the ability to debug in production and without sharing all the source code with another cloud provider. 
+
+More detailed instructions can be found here at this blog post: [Debugging Java in Production](http://www.tonytruong.net/debugging-java-apps-in-production/)
 
 # Requirements
 
